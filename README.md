@@ -59,4 +59,12 @@
 | [0007-reverse-integer](https://github.com/mouktikajakkam/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mouktikajakkam/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mouktikajakkam/LEETCODE/tree/master/0013-roman-to-integer) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mouktikajakkam/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mouktikajakkam/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
