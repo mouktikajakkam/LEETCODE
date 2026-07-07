@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/mouktikajakkam/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mouktikajakkam/LEETCODE/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/mouktikajakkam/LEETCODE/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/mouktikajakkam/LEETCODE/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/mouktikajakkam/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/mouktikajakkam/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mouktikajakkam/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -64,6 +65,7 @@
 | [0007-reverse-integer](https://github.com/mouktikajakkam/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mouktikajakkam/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mouktikajakkam/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/mouktikajakkam/LEETCODE/tree/master/0066-plus-one) |
 ## Linked List
 |  |
 | ------- |
