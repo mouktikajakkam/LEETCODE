@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/mouktikajakkam/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/mouktikajakkam/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mouktikajakkam/LEETCODE/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mouktikajakkam/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/mouktikajakkam/LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mouktikajakkam/LEETCODE/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/mouktikajakkam/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
@@ -18,6 +19,7 @@
 | ------- |
 | [0015-3sum](https://github.com/mouktikajakkam/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mouktikajakkam/LEETCODE/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mouktikajakkam/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mouktikajakkam/LEETCODE/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
