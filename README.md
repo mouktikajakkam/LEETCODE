@@ -69,6 +69,7 @@
 | [0009-palindrome-number](https://github.com/mouktikajakkam/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mouktikajakkam/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mouktikajakkam/LEETCODE/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/mouktikajakkam/LEETCODE/tree/master/0070-climbing-stairs) |
 ## Linked List
 |  |
 | ------- |
@@ -85,4 +86,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mouktikajakkam/LEETCODE/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mouktikajakkam/LEETCODE/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mouktikajakkam/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
