@@ -12,6 +12,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mouktikajakkam/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/mouktikajakkam/LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mouktikajakkam/LEETCODE/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mouktikajakkam/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/mouktikajakkam/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/mouktikajakkam/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mouktikajakkam/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mouktikajakkam/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mouktikajakkam/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
