@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/mouktikajakkam/LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mouktikajakkam/LEETCODE/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mouktikajakkam/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0204-count-primes](https://github.com/mouktikajakkam/LEETCODE/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/mouktikajakkam/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/mouktikajakkam/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mouktikajakkam/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -74,6 +75,7 @@
 | [0013-roman-to-integer](https://github.com/mouktikajakkam/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mouktikajakkam/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/mouktikajakkam/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/mouktikajakkam/LEETCODE/tree/master/0204-count-primes) |
 ## Linked List
 |  |
 | ------- |
@@ -123,4 +125,24 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/mouktikajakkam/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mouktikajakkam/LEETCODE/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mouktikajakkam/LEETCODE/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mouktikajakkam/LEETCODE/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mouktikajakkam/LEETCODE/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mouktikajakkam/LEETCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
