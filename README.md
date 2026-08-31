@@ -19,6 +19,7 @@
 | [0217-contains-duplicate](https://github.com/mouktikajakkam/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mouktikajakkam/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mouktikajakkam/LEETCODE/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/mouktikajakkam/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [1584-min-cost-to-connect-all-points](https://github.com/mouktikajakkam/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mouktikajakkam/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
