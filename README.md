@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/mouktikajakkam/LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mouktikajakkam/LEETCODE/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mouktikajakkam/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/mouktikajakkam/LEETCODE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/mouktikajakkam/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mouktikajakkam/LEETCODE/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/mouktikajakkam/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
@@ -152,4 +153,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mouktikajakkam/LEETCODE/tree/master/0204-count-primes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/mouktikajakkam/LEETCODE/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
