@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mouktikajakkam/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/mouktikajakkam/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/mouktikajakkam/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mouktikajakkam/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mouktikajakkam/LEETCODE/tree/master/0020-valid-parentheses) |
@@ -91,6 +92,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/mouktikajakkam/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/mouktikajakkam/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 ## Trie
 |  |
@@ -103,6 +105,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/mouktikajakkam/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/mouktikajakkam/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mouktikajakkam/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
